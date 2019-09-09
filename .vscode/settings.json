@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Colab",
+        "Jupyter",
+        "Kaggle",
+        "datascience",
+        "jovyan"
+    ],
+    "cSpell.ignoreWords": [
+        "plas",
+        "vander"
+    ],
+    "python.pythonPath": "C:\\Python\\Python37\\python.exe",
+    "files.exclude": {
+        "**/.ipynb_checkpoints": true
+    }
+}

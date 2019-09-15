@@ -13,6 +13,8 @@ If you do not want to install or run it on your local computer you can follow th
 
 If the location of the workshop has bad internet connection or you want to run it on a personal computer then you can install Jupyter in multiple ways. For this workshop I recommend one of two ways. By using a docker container, or by using the `Anaconda` distribution.
 
+**NOTE:** If you are using one of the notebook solutions in the cloud, you have to upload the notebook, img folder and data folder to the cloud provider. This workshop is designed around using docker and a local computer mainly.
+
 ### Using Docker
 Install docker on your local computer if this is not already installed. You can download docker from here: [Download Docker]
 
